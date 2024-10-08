@@ -1,0 +1,4 @@
+	AKIA47CRWXRECBKHLVWX
+8BU7Ps+LZn8iqzGQw1ds6RbOjBWhCfPKMtyVJfE+
+
+%USERPROFILE%\AppData\Roaming\Python\Python312\Scripts 환경변수
